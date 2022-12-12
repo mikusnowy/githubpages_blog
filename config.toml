@@ -173,5 +173,5 @@ defaultContentLanguageInSubdir = true
   [[languages.zh-cn.menu.links]]
     name = "关于我"
     weight = 10
-    identifier = "about-me"
+    identifier = "about"
     url = "category/about/"
