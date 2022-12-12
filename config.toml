@@ -25,8 +25,8 @@ PygmentsCodeFences = true
 PygmentsUseClasses = true    # required for shhighlight shortcode
 
 # service plugins
-disqusShortname = "gage"         # disqus_shortname
-googleAnalytics = "UA-XXXXXXXX-X"         # UA-XXXXXXXX-X
+#disqusShortname = "gage"         # disqus_shortname
+#googleAnalytics = "UA-XXXXXXXX-X"         # UA-XXXXXXXX-X
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "zh-cn"           # Default language to use
