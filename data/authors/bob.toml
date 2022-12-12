@@ -1,0 +1,13 @@
+url = "https://example.com"
+
+[name]
+display = "GaGe"
+
+[image]
+# url = ""
+
+[zh-cn]
+description = "自我介绍。"
+
+[en]
+description = "Self introduction."
